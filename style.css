@@ -1,0 +1,47 @@
+			body {
+				
+				font-family: sans-serif;
+				
+			}
+			
+			#shape {
+				
+				width: 200px;
+				height: 200px;
+				background-color: red;
+				display: none;
+				position: relative;
+				
+			}
+			
+			.bold {
+				
+				font-weight: bold;
+				
+			}
+
+			#heading {
+
+				width: 100%;
+				height: 50px;
+				background-color: darkslategrey;
+	
+			}
+
+			h1 {
+
+				color: seashell;
+				padding-top: 5px;
+				padding-left: 10px;
+	
+			}
+
+			#subject {
+
+				font-size: 20px;
+				font-weight: bold;
+				padding-left: 10px;
+
+			}
+
+			
